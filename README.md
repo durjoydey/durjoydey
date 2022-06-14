@@ -1,7 +1,7 @@
 ![Intermediate Web Developer](https://scontent.fdac15-1.fna.fbcdn.net/v/t1.6435-9/81464023_2499424303665867_4812165488257794048_n.jpg?stp=dst-jpg_s640x640&_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHc3wB8mb7ANFnhlw3ySjAhf_VIuSY1X7h_9Ui5JjVfuOAj2wRAmsCCS3QguDwKXj26U35LF8D9_Hqt3zfMpjnP&_nc_ohc=Pkd9j-ZrTs4AX8CIPQn&_nc_ht=scontent.fdac15-1.fna&oh=00_AT8PEGAdrAfvlS9gVNDNNTdsWh0iLtSissuOPdfGWtzIUQ&oe=62625408)
 
 ### Hi there 👋, I'm Durjoy
-#### Intermediate Web Developer
+#### Backend Web Developer
 
 
 I am a student of American International University-Bangladesh. Currently doing my bechelor in Computer Science and Engineering. My major is Software Engineering.
