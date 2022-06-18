@@ -6,7 +6,7 @@
 
 I am a student of American International University-Bangladesh. Currently doing my bechelor in Computer Science and Engineering. My major is Software Engineering.
 
-Skills: C / C++/ Java/ C#/ PHP/ Laravel/ REACT / JS / HTML / CSS
+Skills: C / C++/ Java/ C#/ Python/ PHP/ Laravel/ REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning backend developing 
 - 👯 I’m looking to collaborate on github 
